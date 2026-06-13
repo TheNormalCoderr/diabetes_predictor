@@ -49,3 +49,5 @@ pip install pandas numpy seaborn matplotlib scikit-learn lazypredict
 ```
 3. **Run the Notebook**:
 Open `diabetes-predictor.ipynb` in Jupyter Notebook or VS Code to perform the analysis.
+
+BY -  Amiteshwar Singh
